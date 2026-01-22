@@ -1,10 +1,6 @@
 img {
-    /* Aufgabe:
-    Füge oberhalb unseres Bildes etwas Abstand (margin) hinzu.
-    Erinnerst du dich, wie wir im Cookie-Widget-Beispiel
-    Abstände hinzugefügt haben?
-    */
-
+    
+    
     margin-top: 100px;
     display: block;
     width: 300px;

@@ -1,10 +1,7 @@
-/*
-Aufgabe:
-Wandle die Elemente in Block-Elemente um!
-*/
 
-
-
+div {
+    margin-top: 100px;
+}
 
 img {
     display: block;

@@ -1,10 +1,4 @@
-/*
-Challenge:
-Center the text in the <p> and <h4> elements.
 
-Note: you should only add ONE property, as inheritance 
-should take care of applying it to both elements.
-*/
 
 body {
     margin: 20px;
@@ -21,9 +15,12 @@ body {
     padding: 20px;
     display: flex;
     justify-content: space-around;
+    text-align: center;
 }
 
 .border-blue {
     border: 1px dotted blue;
+    
 }
+
 

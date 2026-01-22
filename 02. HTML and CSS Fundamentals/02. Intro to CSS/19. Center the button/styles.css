@@ -25,7 +25,13 @@
 }
 
 /*
-Challenge:
-Center the button and add some space above it
+Aufgabe:
+Zentriere den Button und füge oberhalb etwas Abstand hinzu.
 */
 
+.btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}

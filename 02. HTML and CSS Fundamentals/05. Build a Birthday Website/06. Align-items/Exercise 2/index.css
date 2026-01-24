@@ -3,8 +3,8 @@
     height: 260px;
 
     display: flex;
-    justify-content: start;
-    align-items: end;
+    justify-content: center;
+    align-items: center;
     
 }
 

@@ -66,14 +66,12 @@ h1, h2, h3, h4, p {
     background-image: url("images/hot.gif");
 }
 
+#gift-img-genius:hover {
+    background-image: url("images/genius.gif");
+}
 
-/*
-Challenge:
-Create the "genius" and "badass" GIFt sections.
+#gift-img-badass:hover {
+    background-image: url("images/badass.gif");
+}
 
-Texts:
-If I had to describe you with ONE word 👇
 
-The only person as badass as you 💪
-
-*/
